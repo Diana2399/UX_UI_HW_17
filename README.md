@@ -1,1 +1,1 @@
-The CSS sheet outside of the folder is the correct one, for some reason in VS code the CSS sheet in the folder would not communicate with the HTML. I deleted the folder in Finder, however it still appears here.  # UX_UI_HW_17
+
